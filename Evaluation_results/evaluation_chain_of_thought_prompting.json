@@ -1,0 +1,52 @@
+[
+  {
+     "Accuracy": 75,
+    "Binary Evaluation": false,
+    "Feedback": "The student's answer correctly identifies that incorporating knowledge enhances the quality of responses and improves user experience. However, it lacks emphasis on the model's prediction accuracy and the importance of leveraging external resources or pre-existing knowledge, which are key components of the actual answer. This omission affects the completeness and correctness of the response."
+},
+    {
+     "Accuracy": 85,
+  "Binary Evaluation": true,
+  "Feedback": "The student's answer captures the main points of the actual answer effectively. They clearly define desired responses, emphasize specificity, and mention the importance of iteration. However, the student's response could benefit from slightly more detail in the explanations, particularly regarding the balance of simplicity and complexity. Overall, the response is accurate and aligns well with the best practices of prompt engineering."
+},
+  {
+      "Accuracy": 75,
+    "Binary Evaluation": false,
+    "Feedback": "The student's answer correctly identifies text summarization and question answering as applications of prompt engineering, but it misses mentioning information extraction, which is a key component of the actual answer. Additionally, the student included content generation, which, while relevant, was not part of the original question. This led to a lower evaluation percentage."
+},
+  {
+      "Accuracy": 75,
+    "Binary Evaluation": false,
+    "Feedback": "The student's answer correctly identifies the three prompting methods but lacks depth and specificity in the explanations. For example, it does not clearly define Zero-Shot Prompting as involving no prior examples, nor does it elaborate on the effectiveness of Few-Shot Prompting in providing context. Additionally, the explanation of Chain-of-Thought Prompting is too brief and does not emphasize its role in reasoning through intermediate steps. Overall, the response is incomplete and lacks the necessary detail to fully align with the actual answer."
+},
+  {
+      "Accuracy": 85,
+    "Binary Evaluation": true,
+    "Feedback": "The student's answer effectively captures the essence of decomposing complex requests into simpler subtasks, emphasizing clarity and reduced ambiguity. While the actual answer highlights the incremental understanding of the model, the student's response aligns well with this concept. Overall, the response is coherent and relevant, justifying a high evaluation percentage."
+},
+  {
+      "Accuracy": 75,
+    "Binary Evaluation": false,
+    "Feedback": "The student's answer includes some relevant elements such as clear instructions and context, but it lacks specific mention of input data and output indicators, which are crucial components of a prompt. Additionally, the emphasis on balancing simplicity and complexity, while important, does not directly address the core elements of a prompt as outlined in the actual answer."
+},
+  {
+    "Accuracy": 75,
+  "Binary Evaluation": false,
+  "Feedback": "The student's answer captures some key aspects of prompt engineering, such as clarity and experimentation. However, it lacks depth and misses important points like the need for specificity, the balance between simplicity and complexity, and the iterative nature of prompt engineering. These omissions contribute to a lower evaluation percentage."
+},
+  {
+    "Accuracy": 80,
+  "Binary Evaluation": false,
+  "Feedback": "The student's answer covers several important aspects of prompt engineering, such as specificity, using examples, and iteration. However, it misses some key points from the actual answer, such as the importance of balancing simplicity and complexity in prompts and the need to clearly define desired responses. These omissions affect the completeness and correctness of the response."
+},
+  {
+      "Accuracy": 90,
+    "Binary Evaluation": true,
+    "Feedback": "The student correctly identified the elements of a prompt and accurately described the difference between zero-shot and few-shot prompting. The response is complete and aligns well with the actual answer, with only minor phrasing differences."
+},
+  {
+    "Accuracy": 85,
+    "Binary Evaluation": true,
+    "Feedback": "The student's answer correctly identifies the roles of temperature and top_p in influencing the output of language models. It explains temperature as controlling randomness and creativity, and top_p as a threshold for diversity in responses. However, it lacks some detail and analogies present in the actual answer, such as the cooking analogy for temperature and the specific implications of low vs. high values for top_p. Overall, the response is accurate and sufficiently complete."
+}
+]

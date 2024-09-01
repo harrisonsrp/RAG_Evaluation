@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "rag-with-faiss-and-t5-using-langchain"
+version = "0.1.0"
+description = ""
+authors = ["Homayoun <hsohrab23@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+python-dotenv = "^1.0.1"
+langchain-community = "^0.2.12"
+faiss-cpu = "^1.8.0.post1"
+beautifulsoup4 = "^4.12.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
