@@ -97,8 +97,14 @@ Accuracy of the first round
 <img src="Evaluation_results/accuracy_plot.png">
 
 
-Accuracy of the seccond round
+Accuracy of the second round
 <img src="Evaluation_results/accuracy_plot2.png">
+
+For the accuracy more than 85% and above percent, the evaluation agent consider response as True
+and False for less than 85%. In this bar plot you can see the count of  true and false for evaluation result 
+based on each prompt engineering techniques
+Count of True or False
+<img src="Evaluation_results/accuracy_bar_plot.png">
 
 ## Contributing
 

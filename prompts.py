@@ -19,7 +19,7 @@ evaluation_role_prompting = """
             
             Response Format (in json):
             Accuracy: [Evaluation percentage]
-            Binary evaluation: [True/False]
+            Binary Evaluation: [True/False]
             Feedback: [summary of feedback]
             """
 
