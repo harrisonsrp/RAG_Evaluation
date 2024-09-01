@@ -92,12 +92,6 @@ The student's answer captures the essence of enhancing the quality of responses 
 
 This plot showing the accuracy of the four prompt engineering techniques. Each technique is represented by a separate line in the plot, with 10 data points in the X axis corresponding 
 to test data index value and accuracy values in the Y axis.
-
-Accuracy of the first round
-<img src="Evaluation_results/accuracy_plot.png">
-
-
-Accuracy of the second round
 <img src="Evaluation_results/accuracy_plot2.png">
 
 For the accuracy more than 85% and above percent, the evaluation agent consider response as True
