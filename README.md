@@ -1,6 +1,9 @@
 # RAG-Evaluation
 In this project I evaluated the output of a vectorRAG using reflection agent strategy and different prompt engineering techniques including role prompting, chain of thought, ReAct and self consistency
 
+# Detailed Implementation Tutorial
+https://medium.com/@homayoun.srp/dual-agent-rag-evaluation-system-step-by-step-building-an-evaluation-system-for-rag-db5d1e1c8ecd
+
 # Prompt Engineering Evaluation
 
 This project focuses on evaluating AI responses using prompt engineering techniques. 
